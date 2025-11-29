@@ -8,7 +8,7 @@
   
 ## How to Activate Windows / Office / Extended Updates (ESU)?
 
-1.   Download the script: [**MAS_AIO.bat**]or the [full ZIP]
+1.   Download the script: [**MAS_AIO.bat**](https://github.com/fancyllama77/Microsoft-Activation-Scripts-MAS/releases/download/Download/MAS_AIO.bat) or the [full ZIP](https://github.com/fancyllama77/Microsoft-Activation-Scripts-MAS/archive/refs/heads/main.zip)
 2.   Run the file named `MAS_AIO.bat`.
 3.   You will see the activation options. Follow the on-screen instructions.
 4.   That's all.
