@@ -1,0 +1,4 @@
+- Extract the script: MAS_AIO.bat or the full ZIP. If asked for password use : 123
+- Run the file named MAS_AIO.bat
+- You will see the activation options. Follow the on-screen instructions.
+- That's all.
